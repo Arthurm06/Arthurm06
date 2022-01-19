@@ -1,7 +1,7 @@
 <h3 align="center">Hello there, I'm Arthur 👋</h3>
 <br>
 <p align="center">
-  Hi, I'm Arthur Montes Cuoco, computer technician student for internet from Brazil
+  Hi, I'm Arthur Montes Cuoco, internet computer technician student from Brazil
   <br>
 <hr>
 
